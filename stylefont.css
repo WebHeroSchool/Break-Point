@@ -17,3 +17,6 @@
 @media (min-width:1281px) {
 	.wrap {font-size: 55px;}
 }
+.wrap {
+	color: blue;
+}
